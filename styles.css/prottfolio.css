@@ -1,3 +1,6 @@
+*{
+    margin: ;
+}
 /* common shared styles */
 body{
     font-family: 'Open Sans', sans-serif;
@@ -7,7 +10,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+    margin: 0px 200px;
 }
 /* ul related styles */
 nav > ul{
@@ -44,4 +47,19 @@ nav a{
     font-weight: 700;
     color: white;
     padding: 15px 35px;
+}
+/* Header related styles */
+.header{
+    background-color:  #FFF8F3;
+}
+/* banner class ja header ae modde ase */
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+
+}
+/* profile picture controls */
+.banner .profile-pic{
+width: 500px;
 }
