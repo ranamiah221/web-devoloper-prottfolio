@@ -127,6 +127,18 @@ main{
     padding: 30px 150px;
 }
 /* What i do section */
-.skalls-container{
+.skills-container{
     display: flex;
+    gap: 24px;
+
+}
+.skill{
+    padding: 30px;
+    
+}
+/* resume colum section */
+.resume-colum-section{
+    font-size: 30px;
+    font-weight: 700;
+    color: #474747;
 }
