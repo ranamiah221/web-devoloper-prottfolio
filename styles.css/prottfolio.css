@@ -109,7 +109,7 @@ main{
     padding: 130px;
     border-radius: 10px;
     background: #fff8f3;
-    margin: 130px;;
+    margin: 130px;
 }
 /* about info container */
 .about-info-container{
@@ -141,4 +141,17 @@ main{
     font-size: 30px;
     font-weight: 700;
     color: #474747;
+}
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.resume-item-description,.resume-item-institude{
+    color: #757575;
+}
+.resume-container hr{
+    margin: 30px;
+}
+.download-cv{
+    text-align: center;
 }
