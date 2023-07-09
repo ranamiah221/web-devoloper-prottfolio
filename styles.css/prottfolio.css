@@ -155,3 +155,36 @@ main{
 .download-cv{
     text-align: center;
 }
+/* Footer section */
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 100px;
+    gap: 50px;
+   
+}
+.footer{
+    background-color: antiquewhite;
+   
+}
+.footer-text{
+    width: 80%;
+    margin: auto;
+
+}
+.footer-form{
+   padding-top: 17%
+}
+.lable-con{
+    background-color: white;
+   
+
+}
+#name-style{
+    font-size: larger;
+    font-weight: bolder;
+}
+.classes{
+    text-align: center;
+    
+}
